@@ -34,4 +34,4 @@ The following steps are only for _one_ of the group members to perform.
 - NPM 5.x or above
 - PG 6.x
 
-Group Project Collaboration between Vineet Pande @vsp412, Rye Gilliss @RGilliss, and Samantha Knoop @SilkyCin
+Group Project Collaboration between Vineet Pande, Rye Gilliss, and Samantha Knoop.
